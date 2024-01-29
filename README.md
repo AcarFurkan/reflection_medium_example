@@ -5,5 +5,5 @@ This repo is the sample content of the reflection article I wrote. You can acces
 
 
 <p>
-  <img src="assets/reflection_article.png" style="width: 720px" />
+  <img src="./assets/reflection_article_wp.png" style="width: 720px" />
 </p>
